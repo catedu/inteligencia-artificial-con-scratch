@@ -7,4 +7,6 @@ Unesco, OCDE, Banco mundial, Comisión Europea, Forbes… No hay informe sobre l
 
 {% youtube %}https://www.youtube.com/watch?v=iHzqWD5n8Ls{% endyoutube%}
 
-{% include "git+https://github.com/catedu/inteligencia-artificial-con-scratch/creditos.md" %}
+<!--
+{% include "./creditos.md" %}
+-->
