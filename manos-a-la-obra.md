@@ -1,0 +1,3 @@
+#¡Manos a la obra!
+
+Con este conjunto de videotutoriales podrás aprender a utilizar la herramienta [Machine learning for kids](https://machinelearningforkids.co.uk/#!/about) para **desarrollar sistemas de inteligencia artificial e incorporarlos a tus creaciones digitales con Scratch 3**. En concreto, para ilustrar el funcionamiento de los sistemas de inteligencia artificial basados en aprendizaje automático, en estos ejemplos vamos a desarrollar paso a paso un asistente virtual con el que controlaremos la iluminación y la temperatura de nuestro hogar usando órdenes en lenguaje natural.
