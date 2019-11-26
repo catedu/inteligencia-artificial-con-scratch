@@ -9,3 +9,5 @@ Este tipo de recursos son ideales para **reflexionar en el aula acerca del alcan
 ###[Archivos fuente .sb3 empleados en el tutorial (objetos y fondos)](http://code.intef.es/wp-content/uploads/2019/03/RECURSOS-IA-en-el-Aula-con-Scratch.zip)
 
 ###[¡Atención! Esta es la versión de Scratch 3.0 que se debe emplear para implementar Aprendizaje Automático](https://machinelearningforkids.co.uk/scratch3/)
+
+{% include "git+https://github.com/catedu/inteligencia-artificial-con-scratch/creditos.md" %}
