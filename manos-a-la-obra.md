@@ -10,4 +10,3 @@ Este tipo de recursos son ideales para **reflexionar en el aula acerca del alcan
 
 ###[¡Atención! Esta es la versión de Scratch 3.0 que se debe emplear para implementar Aprendizaje Automático](https://machinelearningforkids.co.uk/scratch3/)
 
-{% include "git+https://github.com/catedu/inteligencia-artificial-con-scratch/creditos.md" %}

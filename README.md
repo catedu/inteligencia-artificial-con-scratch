@@ -7,6 +7,3 @@ Unesco, OCDE, Banco mundial, Comisión Europea, Forbes… No hay informe sobre l
 
 {% youtube %}https://www.youtube.com/watch?v=iHzqWD5n8Ls{% endyoutube%}
 
-<!--
-{% include "./creditos.md" %}
--->

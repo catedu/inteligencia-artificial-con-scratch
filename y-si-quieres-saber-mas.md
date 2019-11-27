@@ -25,4 +25,4 @@ Comisariada por Claudia Giannetti,–una de las especialistas más relevantes de
 
 ####[Descarga de la guia práctica para docentes](https://espacio.fundaciontelefonica.com/wp-content/uploads/2018/11/Odiseas-IA.pdf)
 
-{% include "git+https://github.com/catedu/inteligencia-artificial-con-scratch/creditos.md" %}
+
