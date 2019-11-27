@@ -1,7 +1,6 @@
 # Summary
 
-* [0 Introduction](README.md)
-
+* [¿Qué es?](README.md)
 * [¡Manos a la obra!!](manos-a-la-obra.md)
   * [1 Comenzamos a programar un asistente virtual con Scratch 3.0](comenzamos-a-programar-un-asistente-virtual-con-scratch-30.md)
   * [2 Nos encontramos con los límites de la programación clásica.](nos-encontramos-con-los-limites-de-la-programacion-clasica.md)
