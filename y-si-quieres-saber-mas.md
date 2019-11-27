@@ -17,7 +17,7 @@ El documental ‘AlphaGo’, dirigido por Greg Kohs, muestra cómo un sistema de
 
 ##Más allá de 2001: odiseas de la inteligencia
 
-omando como punto de partida la película  ‘2001: Una odisea del espacio’ de Stanley Kubrick, esta exposición de Fundación Telefónica nos invita a un viaje por los orígenes, el presente y el futuro de la inteligencia humana y de uno de sus proyectos más ambiciosos: la inteligencia artificial.
+Tomando como punto de partida la película  ‘2001: Una odisea del espacio’ de Stanley Kubrick, esta exposición de Fundación Telefónica nos invita a un viaje por los orígenes, el presente y el futuro de la inteligencia humana y de uno de sus proyectos más ambiciosos: la inteligencia artificial.
 
 Comisariada por Claudia Giannetti,–una de las especialistas más relevantes del media art– esta exposición está articulada también en tres ejes temáticos: *El despertar de la inteligencia, En el universo de la IA y El futuro de las inteligencias y más allá del infinito*. La muestra establece analogías entre escenas de ‘2001’ acompañadas de documentos y manuscritos originales de Kubrick, y una selección de piezas y obras significativas que permiten descubrir la relación entre seres humanos y máquinas “pensantes”. La estructura narrativa de esta exposición se articula en torno a diez preguntas, que plantean aspectos relevantes acerca de la inteligencia humana y de las potencialidades de las tecnologías de IA.
 
