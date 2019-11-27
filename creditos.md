@@ -7,7 +7,7 @@
 
 ###FUENTE
 
-https://intef.es/wp-content/themes/Tema_INTEF/img/logo-gobierno-espana.png
+[http://code.intef.es/inteligencia-artificial-en-el-aula-con-scratch-3-0/](http://code.intef.es/inteligencia-artificial-en-el-aula-con-scratch-3-0/)
 
 <hr />
 
