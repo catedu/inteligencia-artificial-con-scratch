@@ -12,4 +12,5 @@
   * [8 Nuestro asistente virtual en pleno funcionamiento](nuestro-asistente-virtual-en-pleno-funcionamiento.md)
 * [Y si quieres saber más...](y-si-quieres-saber-mas.md)
 * [Créditos](creditos.md)
+* [Pensamiento computacional](pensamiento-computacional.md)
 
